@@ -39,8 +39,8 @@ function matchWord(pattern, text) {
   }
 }
 
-// module.exports = {
-//   matchLetter,
-//   matchWord,
-//   search
-// };
+module.exports = {
+  matchLetter,
+  matchWord,
+  search
+};
